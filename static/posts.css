@@ -22,8 +22,7 @@ article {
 }
 
 h1 {
-    text-align: center;
-    padding-right: 18.5%;
+    text-align: left;
 }
 
 p {
@@ -36,8 +35,7 @@ p {
 }
 
 .date {
-    text-align: center;
-    padding-left: 27.5%;
+    text-align: right;
 }
 
 ::selection {
